@@ -8,3 +8,5 @@ Student Name : Tshiamo Porati - Mashabane
 
 
 Submission Date : 05/03/2026
+
+Accessing the Code : Click on the branch and go to the master. Then select the PROJECT_1 ipynb
